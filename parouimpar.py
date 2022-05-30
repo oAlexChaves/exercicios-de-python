@@ -1,3 +1,5 @@
+ #Faça uma lista que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares numa lista PAR e os números IMPARES na lista impar. Imprima as listas.
+
 vetor = []
 PAR = []
 IMPAR = []

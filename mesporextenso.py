@@ -1,3 +1,5 @@
+#Faça um programa que solicite a data de nascimento (dd/mm/aaaa) do usuário e imprima a data com o nome do mês por extenso.
+
 data = input(str("digite a data de seu nascimento no seguinte formato (dd/mm/aaaa): "))
 
 dia, mes, ano = data.split('/')
